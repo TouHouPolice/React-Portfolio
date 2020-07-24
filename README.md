@@ -1,1 +1,1 @@
-# Source code for my react based portfolio
+# Source code for my react based Gitconnected portfolio
